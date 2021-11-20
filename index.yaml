@@ -3,13 +3,13 @@ entries:
   openproject-helm-chart:
   - apiVersion: v2
     appVersion: 10.6.5
-    created: "2021-11-20T16:35:29.1510206+01:00"
+    created: "2021-11-20T16:47:19.9483236+01:00"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: 9.1.1
     description: A Helm chart for Kubernetes
-    digest: af52e3726c3523f301e23d6cb45d01fc7aa36a3e55666c61685a138e793b3ba1
+    digest: 4bb9cfe2b73dafe22d5469ec900882f8e21475d5b1a46416819f5e5a4c061af6
     name: openproject-helm-chart
     type: application
     urls:
@@ -20,7 +20,7 @@ entries:
       category: Database
     apiVersion: v1
     appVersion: 11.8.0
-    created: "2021-11-20T16:35:29.1559994+01:00"
+    created: "2021-11-20T16:47:19.9520796+01:00"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -48,4 +48,4 @@ entries:
     urls:
     - https://niklasj93.github.io/openproject-helm-chart/charts/postgresql-9.1.1.tgz
     version: 9.1.1
-generated: "2021-11-20T16:35:29.1040108+01:00"
+generated: "2021-11-20T16:47:19.8995713+01:00"
