@@ -87,5 +87,6 @@ postgresql:
   persistence:
     enabled: true
     size: 15G
+  postgresqlURL: URL
   postgresqlPassword: superSecrectPassword
   postgresqlDatabase: openproject
